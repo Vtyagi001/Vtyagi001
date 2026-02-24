@@ -1,7 +1,8 @@
+![logo](https://github.com/Vtyagi001/Vtyagi001/blob/main/header_gif.gif)
 <h1 align="center">Hi 👋, I'm Vansh</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vtyagi001&label=Profile%20views&color=0e75b6&style=flat" alt="vtyagi001" /> </p>
+<img align="right" alt="Kryptora" width="400" src="https://github.com/Vtyagi001/Vtyagi001/blob/main/program.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
